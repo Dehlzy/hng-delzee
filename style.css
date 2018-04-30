@@ -1,0 +1,32 @@
+h1{
+   text-align: center;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    color: #ffffff;
+}
+h3{
+	text-align: center;
+	color: #ffffff;
+
+}
+.image{
+	text-align: center;
+	display: block;
+}
+h5{
+	 color: #ffffff;
+	 font-size: 3em;
+	}
+h4{
+       font-family: roboto, monospace;
+       font-size:80%;
+       color:#333333
+       text-align: center;
+       color: green;
+       
+
+      }
